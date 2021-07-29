@@ -61,7 +61,7 @@ namespace ArmDotTrialRemover
 			Console.WriteLine(filename);
 
 			Console.ForegroundColor = ConsoleColor.White;
-			Console.WriteLine("Press key to exit...");
+			Console.WriteLine("Press any key to exit...");
 			Console.Read();
 
 
